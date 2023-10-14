@@ -1,4 +1,8 @@
-baseURL = 'https://0x0oi.github.io/'
+baseURL = 'https://AS4837.github.io/'
 languageCode = 'zh-cn'
 title = 'AS4837'
 theme = 'PaperMod'
+enableEmoji = true 
+enableRobotsTXT = false 
+hasCJKLanguage = true 
+Copyright = 'Remilia'
