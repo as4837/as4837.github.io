@@ -6,24 +6,24 @@ draft = false
 
 重装脚本
 
-wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/leitbogioro/Tools/master/Linux_reinstall/InstallNET.sh' && chmod a+x InstallNET.sh && bash InstallNET.sh -debian 12 -pwd 'password' --cloudkernel 1 --bbr --ip-dns 9.9.9.9 --fail2ban
+    wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/leitbogioro/Tools/master/Linux_reinstall/InstallNET.sh' && chmod a+x InstallNET.sh && bash InstallNET.sh -debian 12 -pwd 'password' --cloudkernel 1 --bbr --ip-dns 9.9.9.9 --fail2ban
 
 
 
 Xray VLESS Vision Reality
 
-bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install.sh)
+    bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install.sh)
 
 
 
 YABS
 
-wget -qO- yabs.sh | bash
+    wget -qO- yabs.sh | bash
 
 
 三网回程测试
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/Chennhaoo/Shell_Bash/master/AutoTrace.sh && chmod +x AutoTrace.sh && bash AutoTrace.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/Chennhaoo/Shell_Bash/master/AutoTrace.sh && chmod +x AutoTrace.sh && bash AutoTrace.sh
 
 
 
