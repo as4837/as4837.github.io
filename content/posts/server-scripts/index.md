@@ -44,3 +44,6 @@ CloudFlare TCP优化
     net.ipv4.tcp_collapse_max_bytes = 6291456
     net.ipv4.tcp_notsent_lowat = 131072
 
+Sing-Box
+
+    bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
